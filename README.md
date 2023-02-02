@@ -11,6 +11,7 @@
 * Gateway
 * Spring Boot Actuator
 * Consul Discovery
+* Config Client
 
 # 3. Discovery-service :
 ## dependencies :
