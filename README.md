@@ -54,6 +54,14 @@
 * OpenFeign
 * Spring HATEOAS
 
+# 7. Facturation-service
+* Spring Web
+* Consul Discovery
+* Lombok 
+* Consul Configuration
+* Spring Boot Actuator
+* Vault Configuration
+
 # links 
 Download : `https://www.consul.io/`
 
