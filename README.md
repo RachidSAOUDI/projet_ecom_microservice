@@ -51,6 +51,8 @@
 * Consul Discovery
 * Config Client
 * Spring Boot Actuator
+* OpenFeign
+* Spring HATEOAS
 
 # links 
 Download : `https://www.consul.io/`
