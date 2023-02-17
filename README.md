@@ -63,7 +63,23 @@
 * Vault Configuration
 
 # links 
-Download : `https://www.consul.io/`
+## Download : 
+* Consul : `https://www.consul.io/`
+* Vault : `https://developer.hashicorp.com/vault/downloads`
+
+# List Command Tool : Vault :
+in command line;
+in dev-mode
+Run : `vault server -dev`
+## use le token generated token in console for login
+## add vault-address in environment
+### PowerShell
+Run : `$env:VAULT_ADDR="http://127.0.0.1:8200"`
+### Command line :
+* Run : `set VAULT_ADDR=http://127.0.0.1:8200`
+* Run : `vault kv put secret/facturation-service user.username=rachid user.password=1234`
+* Run : `vault kv get secret/facturation-service`
+
 
 
 
